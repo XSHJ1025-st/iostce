@@ -1,4 +1,4 @@
-const CACHE_NAME = 'trace-cache-iostce-r22-tail-inset-root-v4';
+const CACHE_NAME = 'trace-cache-iostce-r22-group-wallpaper-oppo-tap-v5';
 
 self.addEventListener('install', event => {
   self.skipWaiting();
